@@ -27,7 +27,7 @@ const ProjectData = [
         description: "A employee portal app running on web  ",
         codeLink: "https://github.com/tebo27cMd/reactBudgetApp",
         projectLink: "https://employee-portal-d423d.web.app",
-        imageUrl: employee,
+        imageUrl: newsappImg,
         tag: "React",
      }
      

@@ -1,8 +1,8 @@
 import React from 'react'
 import newsappImg from '../assets/image1.jpg'
-import covid19 from '../assets/covid19.jpeg'
-import budget from '../assets/3.png'
-import employee from '../assets/R.jpeg'
+import weatherappImg from '../assets/image2.png'
+import planetImage from '../assets/image3.png'
+import onBoardImg from '../assets/image4.png'
 import empImg from '../assets/image5.png'
 
 const ProjectData = [
@@ -10,8 +10,8 @@ const ProjectData = [
         title: "Covid-19 Tracker",
         description: "A covid live stats app running on web",
         codeLink: "https://github.com/tebo27cMd/Covid19Tracker",
-        projectLink: " http://localhost:64124",
-        imageUrl: covid19,
+        projectLink: " ",
+        imageUrl: newsappImg,
         tag: "React",
      },
      {
@@ -19,15 +19,7 @@ const ProjectData = [
         description: "A  budget app running on web",
         codeLink: "https://github.com/tebo27cMd/reactBudgetApp",
         projectLink: " https://budget-app-678f5.web.app",
-        imageUrl:budget ,
-        tag: "React",
-     },
-     {
-        title: "Employee Portal ",
-        description: "A employee portal app running on web  ",
-        codeLink: "https://github.com/tebo27cMd/reactBudgetApp",
-        projectLink: "https://employee-portal-d423d.web.app",
-        imageUrl: employee,
+        imageUrl: newsappImg,
         tag: "React",
      }
      
