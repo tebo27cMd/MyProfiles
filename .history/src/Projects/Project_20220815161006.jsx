@@ -2,7 +2,7 @@ import React from 'react'
 import { motion } from "framer-motion";
 import { AiFillEye, AiFillGithub } from "react-icons/ai";
 import "./Project.scss";
-
+import myProfile from ""
 import ProjectData from './ProjectData'
 import Contact from '../Contact/Contact';
 function Projects() {
@@ -14,7 +14,7 @@ function Projects() {
          <span style={{color:'#98C942'}}> Codetribe Tembisa 2022</span>
 
          <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin:'20px' }}>
-            <img src="https://avatars.githubusercontent.com/u/47559292?v=4" alt="@codexpression-nj" size="48" height="48" width="48" data-view-component="true" class="avatar circle mr-3" />
+            <img src="" alt="@codexpression-nj" size="48" height="48" width="48" data-view-component="true" class="avatar circle mr-3" />
             <h2 style={{margin:'5px'}}>
                Tebogo Hlalukana
             </h2>
